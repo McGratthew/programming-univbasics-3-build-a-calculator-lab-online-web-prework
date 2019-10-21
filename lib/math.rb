@@ -31,6 +31,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  81.sqrt
+  num = 81
+  sqrt(num)
 
 end
