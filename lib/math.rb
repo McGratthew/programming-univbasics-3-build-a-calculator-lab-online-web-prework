@@ -32,6 +32,6 @@ end
 
 def square_root(num)
   num = 81
-  math.sqrt(num)
+  puts math.sqrt(num)
 
 end
